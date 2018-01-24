@@ -11,7 +11,6 @@ public class PalindromString
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  
 		strn=br.readLine();  
 		System.out.println("Result string is:");  
-		//write your logic here  
 
 		String invertida = new StringBuilder(strn).reverse().toString();
 

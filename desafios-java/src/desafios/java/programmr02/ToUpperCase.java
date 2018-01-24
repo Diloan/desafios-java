@@ -14,9 +14,7 @@ public class ToUpperCase {
 	    System.out.println("Enter a string:"); 
 	    str = br.readLine();
 	    str = str.toUpperCase();
-	    /*
-	       Your Logic is here
-	    */
+	   
 
 	    System.out.println("Uppercase conversion:" + str);
 	    
