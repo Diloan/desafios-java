@@ -3,11 +3,11 @@ import java.io.*;
 
 public class PalindromString  
 {  
-	//Verifica se a string dada é polidromo
+	//Verifica se a string dada Ã© polidromo
 	public static void main(String a[]) throws Exception  
 	{  
 		String strn;  
-		int flag=0;  
+		int flag = 0;  
 		System.out.println("Enter the string:");  
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  
 		strn=br.readLine();  
