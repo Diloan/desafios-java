@@ -1,8 +1,9 @@
-package desafios.java.programmr;
+package desafios.java.programmr01;
 import java.io.*;
 
 public class PalindromString  
 {  
+	//Verifica se a string dada é polidromo
 	public static void main(String a[]) throws Exception  
 	{  
 		String strn;  
