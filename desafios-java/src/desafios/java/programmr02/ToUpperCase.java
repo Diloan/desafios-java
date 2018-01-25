@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ToUpperCase {
 
-	// Coloca a string dada em upperCase
+	// Coloca a string dada em UpperCase
 	  public static void main(String[] args) throws IOException
 	  {
 	   
